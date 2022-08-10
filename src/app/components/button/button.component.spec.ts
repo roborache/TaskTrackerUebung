@@ -17,6 +17,12 @@ describe('ButtonComponent', () => {
     fixture.detectChanges();
   });
 
+  beforeEach(() => {
+    fixture = TestBed.createComponent(ButtonComponent);
+    component = fixture.componentInstance;
+    fixture.detectChanges();
+  });
+
   it('should create', () => {
     expect(component).toBeTruthy();
   });
