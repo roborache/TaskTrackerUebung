@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "eren godluk time von json fake back",
+      "day": "August 8th at 3pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Loesch test",
+      "day": "August 11th at 3pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "test",
+      "day": "August 11th at 3pm",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "sikmek bigmac time",
+      "day": "August 15th at 3pm",
+      "reminder": true
+    },
+    {
+      "text": "test eintrag",
+      "day": "August 16th",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "asdd",
+      "day": "August 16th",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}

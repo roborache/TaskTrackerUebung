@@ -3,7 +3,7 @@ import { Task } from "./Task";
 export const TASKS: Task[]= [
     {
         id: 1,
-        text: 'eren godluk time',
+        text: 'eren godluk time json fake fake',
         day: 'August 8th at 3pm',
         reminder: true,
     },
